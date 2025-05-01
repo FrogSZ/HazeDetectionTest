@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@qiun/ucharts": "^2.5.0-20230101",
+    "axios": "^1.9.0"
+  }
+}
